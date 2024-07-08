@@ -1,0 +1,10 @@
+C:\Users\Dell-User\Desktop\C#\SendEmail\bin\Debug\SendEmail.exe.config
+C:\Users\Dell-User\Desktop\C#\SendEmail\bin\Debug\SendEmail.exe
+C:\Users\Dell-User\Desktop\C#\SendEmail\bin\Debug\SendEmail.pdb
+C:\Users\Dell-User\Desktop\C#\SendEmail\obj\Debug\SendEmail.csproj.AssemblyReference.cache
+C:\Users\Dell-User\Desktop\C#\SendEmail\obj\Debug\SendEmail.Form1.resources
+C:\Users\Dell-User\Desktop\C#\SendEmail\obj\Debug\SendEmail.Properties.Resources.resources
+C:\Users\Dell-User\Desktop\C#\SendEmail\obj\Debug\SendEmail.csproj.GenerateResource.cache
+C:\Users\Dell-User\Desktop\C#\SendEmail\obj\Debug\SendEmail.csproj.CoreCompileInputs.cache
+C:\Users\Dell-User\Desktop\C#\SendEmail\obj\Debug\SendEmail.exe
+C:\Users\Dell-User\Desktop\C#\SendEmail\obj\Debug\SendEmail.pdb
